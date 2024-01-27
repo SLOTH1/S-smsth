@@ -56,8 +56,8 @@ print("")
 print(Colorate.Horizontal(Colors.blue_to_purple,"¼ ½ ¾  ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞¼ ½ ¾  ⅓ ⅔ ⅕ ⅓   "))
 print("")
 
-phone = input(f"\033[1;34m  [+][Phone🔴]:\033[1;35m ")
-num = int(input(f"\033[1;34m  [+][Nuber🟢] :\033[1;35m"))
+phone = input(f"\033[1;34m  [+][เบอร์โทร🔴]:\033[1;35m ")
+num = int(input(f"\033[1;34m  [+][จำนวน🟢] :\033[1;35m"))
 time.sleep(0.5)
 
 
