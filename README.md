@@ -31,7 +31,7 @@ CTRL+C วรรกเพื่อจบโครงการ
 <p align="center">
 
   <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=ติดตาม+ผู้สร้าง+SHIDO" alt="UwU">
-<p 
+  <br>
   
 # เว็บไซต์ของผู้สร้าง
 <p align="center">
