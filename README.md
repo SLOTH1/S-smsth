@@ -14,7 +14,7 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
-git clone https://github.com/SLOTH1/S-Ddos
+git clone https://github.com/SLOTH1/S-smsth
 cd S-smsth
 ls
 python Run.py
@@ -32,8 +32,8 @@ CTRL+C วรรกเพื่อจบโครงการ
 
   <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=ติดตาม+ผู้สร้าง+SHIDO" alt="UwU">
 <p 
-
-# เว็บไซต์ SHIDO 
+  
+# เว็บไซต์ของผู้สร้าง
 <p align="center">
 <a href="https://87828ddd-f491-45c9-afda-de974ce961b2-00-3gv12jdd1pvlk.pike.replit.dev/">เพจของSHIDO🤖</a>
 
