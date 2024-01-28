@@ -23,7 +23,7 @@ python Run.py
 CTRL+C วรรกเพื่อจบโครงการ
 ```
 <div align="center">
-  <img src="Screenshot_20240126-201143.jpg">
+  <img src="Screenshot_20240128-162447.jpg">
   <br>
   <br>
 
